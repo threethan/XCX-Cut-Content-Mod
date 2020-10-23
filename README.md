@@ -1,5 +1,8 @@
 # XCX-Cut-Content-Mod
 A mod to BDAT.cpk that restores cut skells, arts, weapons, and missions
+By threethan#6592 and abarax#6799
+
+Check out [Abarax's blog](https://recedingrust.wordpress.com/) for more info on regional differences and cut content. (Some didn't make it in to this mod due to balance issues or missing files)
 
 **[Install intructions](INSTALL.md)**
 
