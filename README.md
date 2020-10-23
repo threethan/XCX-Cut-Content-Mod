@@ -1,6 +1,8 @@
 # XCX-Cut-Content-Mod
 A mod to BDAT.cpk that restores cut skells, arts, weapons, and missions
 
+**[Install intructions](INSTALL.md)**
+
 ## Restored Skells
 Restored skells can be crafted at the AM terminal, like normal lv60 skells
 All restored skells are level 60, but use alternate models, stats, and overdrive types to the existing skells
