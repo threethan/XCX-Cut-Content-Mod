@@ -19,6 +19,7 @@ Recipies for these skells must be obtained by defeating certain tyrants. The dro
 - Verus Cobra / Armored Cruiser Seidr (drops from shoulder appendage)
 - Lailah Saiun / Sharnaak the Technician
 - Amsdaius Spartan / Daadan the Strongest Prone
+- Mastema Doom / Gradvius the Headless Emporer
 
 ## Restored Multiguns
 Normally, only the Delta Bliss is obtainable, but there exists a whole line of multiguns
