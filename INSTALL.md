@@ -2,10 +2,16 @@
 ***DOWNLOADS ARE IN THE RELEASES SECTION!***
 
 On Wii U there are two possible methods (thanks to Abarax!) Both require softmodding your wii u, though file replacement only requires you to boot into homebrew once.
- - File replacement will persist unless you manually uninstall the mod
+### File Replacement (Cemu or real wii u)
+- File replacement will persist unless you manually uninstall the mod
+ 
+     Replacement file size is 34MiB (smaller than the original due to better compression)
+### XCXgecko Code (Real wii u only)
  - The gecko code must be applied every time the game is opened, but does not modify any files (Changes to your save will persist, but shouldn't cause any issues even without the mod enabled)
  
      Gecko code doesn't have Full Burst and Air Slash, as they store to your save and don't work properly without the mod. Gecko code is also missing some time trial descriptions, as they don't matter and would be difficult to port. Everything else should work identical to file replacement.
+     
+     Code file is only 10KiB!
 
 On the Cemu emulator, only file replacement can be used.
 
