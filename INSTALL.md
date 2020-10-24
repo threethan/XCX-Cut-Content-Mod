@@ -1,5 +1,5 @@
 # Installation Instructions
-***DOWNLOADS ARE IN THE RELEASES SECTION!***
+***[DOWNLOADS IN THE RELEASES SECTION](https://github.com/threethan/XCX-Cut-Content-Mod/releases/tag/v1.0)***
 
 On Wii U there are two possible methods (thanks to Abarax!) Both require softmodding your wii u, though file replacement only requires you to boot into homebrew once.
 ### File Replacement (Cemu or real wii u)
