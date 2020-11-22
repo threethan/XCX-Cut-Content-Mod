@@ -27,7 +27,7 @@ Recipies for these skells must be obtained by defeating certain tyrants. The dro
 Normally, only the Delta Bliss is obtainable, but there exists a whole line of multiguns
 - The delta bliss and lower tiers can be bought in the shop under 'Psycho Launchers' section. (They replace the "Thwippers" which aren't very good and are still dropped by enemies)
 - The Cosmic Bliss (second highest tier) can be dropped by Chantai the Insect Maiden (50% chance instead of the Signature Glaive)
-- The Cosmic Bliss (highest tier) can be dropped by Sharnaak the Technician (50% chance instead of the Signature Glaive)
+- The Nebulan Bliss (highest tier) can be dropped by Sharnaak the Technician (50% chance instead of the Signature Glaive)
 
 ## Restored Arts
 Two arts were cut from the game. They still have properties and voice lines, but no animation data. I've done my best to restore them with what is still in the files.
