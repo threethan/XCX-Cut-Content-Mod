@@ -29,7 +29,7 @@ Normally, only the Delta Bliss is obtainable, but there exists a whole line of m
 - The Cosmic Bliss (second highest tier) can be dropped by [Chantai the Insect Maiden](https://frontiernav.jahed.dev/explore/xenoblade-chronicles-x/visualisations/maps/entities/peKVDbOU3) (50% chance instead of the Signature Glaive)
 - The Nebulan Bliss (highest tier) can be dropped by [Sharnaak the Technician](https://frontiernav.jahed.dev/explore/xenoblade-chronicles-x/visualisations/maps/entities/erAr5dOd) (50% chance instead of the Signature Glaive)
 
-## Restored Arts
+## Restored Arts *(file version only!)*
 Two arts were cut from the game. They still have properties and voice lines, but no animation data. I've done my best to restore them with what is still in the files.
 If you have already met the required class level, the art will unlock automatically.
 Some recruitable characters have been given these arts, but will also need to unlock them.
@@ -44,16 +44,17 @@ I can't change the order of the missions, so they are *not* ordered by difficult
 
 **Time Attack Missions**
 - Dominating Twins - A few rounds of mechanoid enemies, ending with two unique xe-dom enemies
-- Skell Showdown - A many round skell-vs-skell battle, with a lurking Xern that powers up over time
+- Skell Showdown - A many round skell-vs-skell battle, with a lurking Xern that powers up over time (the Xern doesn't need to be killed, but might kill you if you let it live!)
 - Twin Dolls of Combat - A rematch against the NeilNail enemies, with a much higher drop rate for the mask items
 - The Mourning Giant - A millesaur accompanied by some terebra
 - Cauldros's Finest - A fight against powerful enemies. Beware the drop!
 
 Some enemies were intended to have time attacks, but the missions were removed and unrestorable. Instead, I made new missions for each of them.
+
 **New Time Attack Missions**
-- The Ganglion Goliath - Refight against the Zu Pharg, now lv100 (skells allowed)
-- Skell of the Abyss - Refight against Almandal, new lv60
-- Chimeric abomination - Refight against the final boss
+- The Ganglion Goliath - Refight against the Zu Pharg, now lv100 (skells allowed & recommended)
+- Skell of the Abyss - Refight against Almandal, now lv60
+- Chimeric abomination - Refight against the final boss, very difficult!
 
 **Support Missions**
 - Ibra Ravine Royale - 200 reward tickets, 60000 miranium, skells allowed
