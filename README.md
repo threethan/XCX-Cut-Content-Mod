@@ -15,19 +15,19 @@ Recipies for these skells must be obtained by defeating certain tyrants. The dro
 *(The blueprint will replace weapon drops, but can only be obtained once. All subsequent kills will drop weapons, as usual)*
 
 **Skell name / Enemy that drops it's blueprint**
-- Formula Sengoku / Stola the Unchained
-- Urban Daemon / Chantai the Insect Maiden
-- Inferno Dragoon / Enhanced Attack Seidr (drops from shoulder appendage)
-- Verus Cobra / Armored Cruiser Seidr (drops from shoulder appendage)
-- Lailah Saiun / Sharnaak the Technician
-- Amsdaius Spartan / Daadan the Strongest Prone
-- Mastema Doom / Gradvius the Headless Emporer
+- Formula Sengoku / [Stola the Unchained](https://frontiernav.jahed.dev/explore/xenoblade-chronicles-x/visualisations/maps/entities/eKlVsEFo)
+- Urban Daemon / [Chantai the Insect Maiden](https://frontiernav.jahed.dev/explore/xenoblade-chronicles-x/visualisations/maps/entities/peKVDbOU3)
+- Inferno Dragoon / [Enhanced Attack Seidr](https://frontiernav.jahed.dev/explore/xenoblade-chronicles-x/visualisations/maps/entities/euuRjcxL) (drops from shoulder appendage)
+- Verus Cobra / [Armored Cruiser Seidr](https://frontiernav.jahed.dev/explore/xenoblade-chronicles-x/visualisations/maps/entities/edmUZDfB) (drops from shoulder appendage)
+- Lailah Saiun / [Sharnaak the Technician](https://frontiernav.jahed.dev/explore/xenoblade-chronicles-x/visualisations/maps/entities/erAr5dOd)
+- Amsdaius Spartan / [Dada'an, The Strongest Prone](https://frontiernav.jahed.dev/explore/xenoblade-chronicles-x/visualisations/maps/entities/e7YRAZ2r)
+- Mastema Doom / [Gradivus, the Headless Emperor](https://frontiernav.jahed.dev/explore/xenoblade-chronicles-x/visualisations/maps/entities/eWIdRvhw)
 
 ## Restored Multiguns
 Normally, only the Delta Bliss is obtainable, but there exists a whole line of multiguns
 - The delta bliss and lower tiers can be bought in the shop under 'Psycho Launchers' section. (They replace the "Thwippers" which aren't very good and are still dropped by enemies)
-- The Cosmic Bliss (second highest tier) can be dropped by Chantai the Insect Maiden (50% chance instead of the Signature Glaive)
-- The Nebulan Bliss (highest tier) can be dropped by Sharnaak the Technician (50% chance instead of the Signature Glaive)
+- The Cosmic Bliss (second highest tier) can be dropped by [Chantai the Insect Maiden](https://frontiernav.jahed.dev/explore/xenoblade-chronicles-x/visualisations/maps/entities/peKVDbOU3) (50% chance instead of the Signature Glaive)
+- The Nebulan Bliss (highest tier) can be dropped by [Sharnaak the Technician](https://frontiernav.jahed.dev/explore/xenoblade-chronicles-x/visualisations/maps/entities/erAr5dOd) (50% chance instead of the Signature Glaive)
 
 ## Restored Arts
 Two arts were cut from the game. They still have properties and voice lines, but no animation data. I've done my best to restore them with what is still in the files.
@@ -38,6 +38,10 @@ Some recruitable characters have been given these arts, but will also need to un
 
 ## Restored Missions
 There were many squad missions that were cut. I have restored a select few that were interesting or challenging as singleplayer missions.
+Missions include high level enemies, you might want to focus on accuracy using night vision augments.
+Many of the missions are very difficult, so make sure to max-out your character first, and try taking on powerful tyrants without your skell.
+I can't change the order of the missions, so they are *not* ordered by difficulty!
+
 **Time Attack Missions**
 - Dominating Twins - A few rounds of mechanoid enemies, ending with two unique xe-dom enemies
 - Skell Showdown - A many round skell-vs-skell battle, with a lurking Xern that powers up over time
@@ -45,7 +49,7 @@ There were many squad missions that were cut. I have restored a select few that 
 - The Mourning Giant - A millesaur accompanied by some terebra
 - Cauldros's Finest - A fight against powerful enemies. Beware the drop!
 
-Some enemies were intended to have time attacks, but the missions were removed and unrestorable. Instead, I made new missions for each of them
+Some enemies were intended to have time attacks, but the missions were removed and unrestorable. Instead, I made new missions for each of them.
 **New Time Attack Missions**
 - The Ganglion Goliath - Refight against the Zu Pharg, now lv100 (skells allowed)
 - Skell of the Abyss - Refight against Almandal, new lv60
