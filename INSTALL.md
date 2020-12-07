@@ -40,3 +40,5 @@ On the Cemu emulator, only file replacement can be used.
 4. Copy the contents of `XCXGeckoCode.txt` into XCXGecko as a custom code and apply it
 
 *Steps 3 & 4 must be repeated every time the game is closed*
+
+**There is a bug where, when using the gecko code, the boss in Chimeric Abomination will be far too big, preventing you from targeting appendages. To fix this use the code `2110A31D 00640064` and restart the time trial**
