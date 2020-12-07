@@ -42,3 +42,4 @@ On the Cemu emulator, only file replacement can be used.
 *Steps 3 & 4 must be repeated every time the game is closed*
 
 **There is a bug where, when using the gecko code, the boss in Chimeric Abomination will be far too big, preventing you from targeting appendages. To fix this use the code `2110A31D 00640064` and restart the time trial**
+**The gecko code is missing a few lines of text. Missions will not have descritions and you may see a few placeholder strings. The only fix for this is using the file version, but it does not effect gameplay whatsoever**
