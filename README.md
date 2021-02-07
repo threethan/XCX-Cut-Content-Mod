@@ -25,7 +25,7 @@ Recipies for these skells must be obtained by defeating certain tyrants. The dro
 
 ## Restored Multiguns
 Normally, only the Delta Bliss is obtainable, but there exists a whole line of multiguns
-- The delta bliss and lower tiers can be bought in the shop under 'Psycho Launchers' section. (They replace the "Thwippers" which aren't very good and are still dropped by enemies)
+- The delta bliss and lower tiers can be bought in the shop under 'Psycho Launchers' section. (They replace the "Sabotuers" which aren't very good and are still dropped by enemies. All are made by the AM Factory 1.21, and as such will not show up until it is unlocked.)
 - The Cosmic Bliss (second highest tier) can be dropped by [Chantai the Insect Maiden](https://frontiernav.jahed.dev/explore/xenoblade-chronicles-x/visualisations/maps/entities/peKVDbOU3) (50% chance instead of the Signature Glaive)
 - The Nebulan Bliss (highest tier) can be dropped by [Sharnaak the Technician](https://frontiernav.jahed.dev/explore/xenoblade-chronicles-x/visualisations/maps/entities/erAr5dOd) (50% chance instead of the Signature Glaive)
 
